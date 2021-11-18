@@ -1,0 +1,8 @@
+const nms = require('./names')
+const sayHi = require('./utils')
+const sh = require('./utils')
+const data = require('./alternative-flavour')
+require('./mind-grenade')
+sayHi('Sid')
+sayHi(nms.Shriya)
+sayHi(nms.Shriro)
